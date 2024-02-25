@@ -9,5 +9,5 @@ Map Integration: The application provides users with a map showing nearby needy 
 Community Engagement: Users can interact on a community-based platform to participate in aid activities or create their own events.
 
 Contact
-If you have any questions, suggestions, or feedback, please contact us at info@bikap.com or open an issue on GitHub.
+If you have any questions, suggestions, or feedback, please contact us at gdscarel@gmail.com or open an issue on GitHub.
 
